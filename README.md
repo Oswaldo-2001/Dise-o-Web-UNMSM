@@ -1,2 +1,2 @@
-# Dise-o-Web-UNMSM
+# Diseno-Web-UNMSM
 Actividades del curso
